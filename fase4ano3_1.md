@@ -34,3 +34,12 @@ NVRAM
 Bluetooth
 ### O que significa LAN e WAN?
 LAN é uma rede de computadores que abrange uma área relativamente pequena, uma WAN é uma rede que ocupa uma área geográfica maior.
+## Cap 6 - Qual o protocolo?
+### Quais são os três tipos principais de NAT?
+NAT estático, NAT overload e NAT dinâmico.
+### O que é o gateway?
+Mecanismo que tem como função ser a interface de conexão de hosts de uma rede local com o roteador que permite a esses hosts encaminharem pacotes de dados a hosts de outra rede.
+### Sobre os endereços IPs internos e externos, assinale a alternativa correta:
+O endereço IP atribuído a um host da rede interna é nomeado como Endereço Local Interno.
+### Qual é a informação que não está contida na tabela de roteamento?
+Tipos de camadas
