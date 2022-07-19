@@ -27,3 +27,10 @@ A etapa 2 de avaliações de riscos de TI é necessária para determinar a natur
 O CEO e o CFO são responsáveis pelos controles na emissão dos relatórios financeiros e comunicação de fraudes que possam afetar o balanço da empresa.
 ### O que é o acordo da Basileia II?
 O acordo da Basileia II estipula requisitos de capital mínimo, em função de riscos de crédito e operacionais
+## Cap 5 - Routers
+### Qual memória se comporta como não volátil e de acesso aleatório?
+NVRAM
+### Assinale a alternativa que não corresponde a uma interface de conexão de um roteador.
+Bluetooth
+### O que significa LAN e WAN?
+LAN é uma rede de computadores que abrange uma área relativamente pequena, uma WAN é uma rede que ocupa uma área geográfica maior.
