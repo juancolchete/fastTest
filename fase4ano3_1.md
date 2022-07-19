@@ -50,3 +50,8 @@ Uma vez diagnosticado um problema, cabe uma ação ou controle sobre o recurso.
 Planejamento de camadas
 ### Assinale a alternativa que corresponde com a coleta de dados do modelo clássico de gerenciamento de redes.
 Processo, em geral automático, que consiste de monitoração dos recursos gerenciados.
+## Cap 8 - A camada de transporte
+### Assinale a alternativa que não corresponde com os serviços fornecidos pelo protocolo TCP.
+Não há estabelecimento de sessão.
+### O que significa a sigla dos protocolos TCP e UDP, respectivamente?
+Transfer Control Protocol e User Datagram Protocol
