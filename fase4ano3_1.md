@@ -20,3 +20,10 @@ Indicadores permitem comunicar o desempenho de um projeto para a administração
 No nível cinco, o processo é  continuamente melhorado para atender aos objetivos de negócio atuais e futuros mais relevantes.
 ### O COBIT trabalha com dois tipos de indicadores. Quais são esses indicadores?
 KGI (Key Goal Indicators) e KPI (Key Performance Indicators)
+## Cap 4 - Compliance: em conformidade com as obrigações
+### As empresas de maior porte enfrentam desafios na aplicação da SOX que são distintos das empresas de menor porte. O roteiro de conformidade para SOX fornece direcionamentos para áreas de negócios. Assinale a alternativa correta acerca desse roteiro.
+A etapa 2 de avaliações de riscos de TI é necessária para determinar a natureza e a extensão dos controles necessários para gerenciar esse risco.
+### Sobre os requisitos da Lei Sarbanes-Oxley, assinale a alternativa correta:
+O CEO e o CFO são responsáveis pelos controles na emissão dos relatórios financeiros e comunicação de fraudes que possam afetar o balanço da empresa.
+### O que é o acordo da Basileia II?
+O acordo da Basileia II estipula requisitos de capital mínimo, em função de riscos de crédito e operacionais
