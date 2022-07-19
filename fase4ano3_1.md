@@ -55,3 +55,10 @@ Processo, em geral automático, que consiste de monitoração dos recursos geren
 Não há estabelecimento de sessão.
 ### O que significa a sigla dos protocolos TCP e UDP, respectivamente?
 Transfer Control Protocol e User Datagram Protocol
+## Cap 10 - Projetando uma rede de pequeno porte
+### Qual das opções não corresponde com as vantagens no desenvolvimento de um projeto de rede sem fio.
+Tipologias limitadas
+## Sobre um projeto de rede sem fio, assinale a alternativa correta:
+A rede sem fio traz robustez, pois pode sobreviver intacta em caso de um desastre.
+## Assinale a alternativa que não corresponde a uma limitação das redes sem fio.
+Velocidade
