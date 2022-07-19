@@ -55,6 +55,13 @@ Processo, em geral automático, que consiste de monitoração dos recursos geren
 Não há estabelecimento de sessão.
 ### O que significa a sigla dos protocolos TCP e UDP, respectivamente?
 Transfer Control Protocol e User Datagram Protocol
+## Cap 9 - A camada de aplicação
+### Sobre a camada de apresentação, assinale a alternativa correta.
+Uma de suas funções é formatar ou apresentar dados no dispositivo de origem em um formato compatível para recebimento pelo dispositivo de destino.
+### Assinale a alternativa correta que corresponde com o uso correto para o API socket.
+Pode ser utilizado para construir aplicações de rede.
+### Assinale o que o protocolo da camada de aplicação não define.
+Programação de sockets.
 ## Cap 10 - Projetando uma rede de pequeno porte
 ### Qual das opções não corresponde com as vantagens no desenvolvimento de um projeto de rede sem fio.
 Tipologias limitadas
