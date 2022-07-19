@@ -62,6 +62,8 @@ Uma de suas funções é formatar ou apresentar dados no dispositivo de origem e
 Pode ser utilizado para construir aplicações de rede.
 ### Assinale o que o protocolo da camada de aplicação não define.
 Programação de sockets.
+### Considerando as características e as funções que executam, os protocolos sem conexão IP e com conexão TCP operam, respectivamente, nas seguintes camadas da arquitetura TCP/IP: A transporte e enlace
+
 ## Cap 10 - Projetando uma rede de pequeno porte
 ### Qual das opções não corresponde com as vantagens no desenvolvimento de um projeto de rede sem fio.
 Tipologias limitadas
