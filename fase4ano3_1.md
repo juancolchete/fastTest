@@ -43,6 +43,7 @@ Mecanismo que tem como função ser a interface de conexão de hosts de uma rede
 O endereço IP atribuído a um host da rede interna é nomeado como Endereço Local Interno.
 ### Qual é a informação que não está contida na tabela de roteamento?
 Tipos de camadas
+## Cap 7 - Network Management System
 ### Sobre o modelo clássico de gerenciamento de redes, assinale a alternativa correta.
 Uma vez diagnosticado um problema, cabe uma ação ou controle sobre o recurso.
 ### Assinale a tarefa que não corresponde com um modelo implantado em uma instalação.
