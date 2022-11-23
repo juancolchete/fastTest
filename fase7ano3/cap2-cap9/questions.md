@@ -47,7 +47,7 @@ O padrão SQL adotado pela ANSI...
 
 Das instruções listadas, qual inicia uma transação em um SGBDR Oracle
 
-- Update
+- ALTER DATABASE TO START TRANSACTION OFFLINE IMMEDIATE
 
 Coloque as estruturas de armazenamento Oracle...
 
